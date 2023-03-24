@@ -1,0 +1,4 @@
+## BotBlitz: Unleashing the power of ESP8266
+-------
+
+This is an device that can be utilized in security applications. Concepts of netwroking, cybersecurity and electronics are used in this device. This gadget is basically employed to detect network intrusion. It is necessary to employ both hardware and software. This device mostly utilizes the ESP 8266 module. A Wi-fi Module is included in the chip. This module can connect to any nearby device by sending de-authentication packets to eliminate other networks. Once linked, it can also generate dozens of fake clones to confuse the user i.e beacon spoofing. When kept in a varied range, this device can also be used as a wi-fi jammer. Not only will the gadget be able to extract information like the number of devices linked to a network and the MAC addresses of the linked devices, but it will also be able to create fake clones to create confusion so that the user gets stuck in a loop.
